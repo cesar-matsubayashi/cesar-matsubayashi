@@ -10,13 +10,11 @@ Passionate about building robust and scalable solutions, I specialize in backend
 - Implement **system integrations** to enhance communication between platforms.
 - Create **customized parsers and reports** tailored to business needs.
 - Configure and optimize **databases** using SQL Server, Oracle, and MongoDB.
-- Design interactive and responsive **UIs with React and Tailwind**.
+- Design interactive and responsive **UIs with React**.
 
 ### 📚 Currently Learning:
 
 - Advanced **React** for frontend development.
-- **Tailwind CSS** to streamline UI design.
-- Revisiting and enhancing my **.NET** expertise.
 
 </p>
 
@@ -129,14 +127,6 @@ Passionate about building robust and scalable solutions, I specialize in backend
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-    alt="tailwind"
     width="40"
     height="40"
     />
